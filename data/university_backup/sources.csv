@@ -1,0 +1,7 @@
+doc_id,file_path,title,source_url,retrieved_at,document_version,license_or_permission
+academic-scholarships,data/university/academic-scholarships.md,Quy chế xét cấp học bổng khuyến khích học tập,https://ctsv.vnu.edu.vn/hoc-bong-khuyen-khich-hoc-tap,2026-09-02,2026-QD04,public-source
+course-registration-faculty,data/university/course-registration-faculty.md,Quy định mở lớp học phần và duyệt danh sách dành cho giảng viên,https://daotao.vnu.edu.vn/quy-che/mo-lop-hoc-phan-giang-vien,2026-09-01,2026-QD02,public-source
+course-registration-student,data/university/course-registration-student.md,Quy chế đăng ký học phần dành cho sinh viên,https://daotao.vnu.edu.vn/quy-che/dang-ky-hoc-phan-sinh-vien,2026-09-01,2026-QD01,public-source
+exam-grade-appeal,data/university/exam-grade-appeal.md,Quy trình phúc khảo điểm thi kết thúc học phần,https://khaothi.vnu.edu.vn/quy-trinh-phuc-khao-diem-thi,2026-09-03,2026-QD06,public-source
+library-circulation-rules,data/university/library-circulation-rules.md,Quy chế mượn trả tài liệu và sử dụng không gian thư viện,https://lic.vnu.edu.vn/quy-dinh-muon-tra-tai-lieu,2026-09-03,2026-QD05,public-source
+tuition-and-fee-waiver,data/university/tuition-and-fee-waiver.md,Quy định nộp học phí và chính sách miễn giảm học phí,https://kehoachtaichinh.vnu.edu.vn/hoc-phi-chinh-sach,2026-09-02,2026-QD03,public-source
